@@ -1,0 +1,25 @@
+{
+  "name": "practise",
+  "version": "1.0.0",
+  "description": "For lesson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MirzaabdullayevTest/express-2-group.git"
+  },
+  "author": "Mirzaabdullayev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MirzaabdullayevTest/express-2-group/issues"
+  },
+  "homepage": "https://github.com/MirzaabdullayevTest/express-2-group#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
